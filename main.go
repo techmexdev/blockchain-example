@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"log
+	"log"
 
 	"github.com/techmexdev/blockchain"
 	"github.com/techmexdev/blockchain/minerpool"
